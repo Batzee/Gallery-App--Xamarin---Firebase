@@ -89,10 +89,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\DeletedTable.cs" />
     <Compile Include="Model\Image.cs" />
-    <Compile Include="Model\ImageTable.cs" />
-    <Compile Include="Model\UserTable.cs" />
     <Compile Include="ViewControllers\ImagePickerActivity.cs" />
     <Compile Include="ViewControllers\RegisterActivity.cs" />
     <Compile Include="ViewControllers\MainActivity.cs" />

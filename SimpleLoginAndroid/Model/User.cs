@@ -14,32 +14,19 @@ using SQLite;
 
 namespace SimpleLoginAndroid
 {
-    public class User
+    class User
     {
-        protected string username;
-        protected string password;
 
-        public string Username
-        {
-            get
-            {
-                return username;
-            }
-            set
-            {
-                username = value;
-            }
-        }
-        public string Password
-        {
-            get
-            {
-                return password;
-            }
-            set
-            {
-                password = value;
-            }
-        }
+        [PrimaryKey, AutoIncrement, Column("_Id")]
+
+        public int ID { get; set; } // AutoIncrement and set primarykey  
+
+        [MaxLength(25)]
+
+        public string UserName { get; set; }
+
+        [MaxLength(15)]
+
+        public string Password { get; set; }
     }
 }
