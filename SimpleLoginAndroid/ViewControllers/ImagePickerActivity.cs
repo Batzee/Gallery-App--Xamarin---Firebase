@@ -72,7 +72,7 @@ namespace SimpleLoginAndroid.ViewControllers
             var Connection = LocalDBHandler.GetConnection();
 
             //Get CurrentUser from UserTable 
-            var CurrentUser = Connection.Table<User>().Where(c => c.UserName.Equals(userName)).FirstOrDefault();
+            var CurrentUser = Connection.Table<User>().Where(c => c.Username.Equals(userName)).FirstOrDefault();
 
             //Get the list of users current/exisitng images
             var CurrentUserImages = Connection.Table<Image>().Where(d => d.UserName.Equals(userName)).ToList();
@@ -98,7 +98,7 @@ namespace SimpleLoginAndroid.ViewControllers
             {
                 //Creating new image object with image details if user has not added the specific image
                 Image image = new Image();
-                image.UserName = CurrentUser.UserName;
+                image.UserName = CurrentUser.Username;
                 image.ImageURI = PickedImageURI.ToString();
 
                 Connection.Insert(image);
