@@ -74,7 +74,7 @@ namespace SimpleLoginAndroid
                 var UserTable = Connection.Table<User>();
 
                 //Get CurrentUser from UserTable
-                var CurrentUser = UserTable.Where(x => x.UserName == UserNameTextField.Text && x.Password == PasswordTextField.Text).FirstOrDefault();
+                var CurrentUser = UserTable.Where(x => x.Username == UserNameTextField.Text && x.Password == PasswordTextField.Text).FirstOrDefault();
 
                 if (CurrentUser != null)
                 {
@@ -82,7 +82,7 @@ namespace SimpleLoginAndroid
 
                     //Instantiating next ImagePickerView and Passing Username to that view
                     var ImagePickerActivity = new Intent(this, typeof(ImagePickerActivity));
-                    ImagePickerActivity.PutExtra("ActivityData", CurrentUser.UserName);
+                    ImagePickerActivity.PutExtra("ActivityData", CurrentUser.Username);
 
                     StartActivity(ImagePickerActivity);
                 }

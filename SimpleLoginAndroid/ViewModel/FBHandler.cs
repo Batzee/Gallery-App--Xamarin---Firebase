@@ -33,7 +33,7 @@ namespace SimpleLoginAndroid.ViewModel
 
             foreach (var LocalUser in LocalUsers)
             {
-                LocalUserNames.Add(LocalUser.UserName);
+                LocalUserNames.Add(LocalUser.Username);
             }
 
             //Getting FBUsers List
@@ -46,7 +46,7 @@ namespace SimpleLoginAndroid.ViewModel
             foreach (var Row in FBUserTable)
             {
                 RemoteUsers.Add(Row.Object);
-                RemoteUserNames.Add(Row.Object.UserName);
+                RemoteUserNames.Add(Row.Object.Username);
             }
 
             //Creating a list for Unique UserNames
@@ -60,12 +60,12 @@ namespace SimpleLoginAndroid.ViewModel
                 //Checking both Local And Remote Users whether those include the name
                 if (LocalUserNames.Contains(FinalUserName))
                 {
-                    User FinalUser = LocalUsers.Where(User => User.UserName == FinalUserName).FirstOrDefault();
+                    User FinalUser = LocalUsers.Where(User => User.Username == FinalUserName).FirstOrDefault();
                     FinalUsers.Add(FinalUser);
                 }
                 else
                 {
-                    User FinalUser = RemoteUsers.Where(User => User.UserName == FinalUserName).FirstOrDefault();
+                    User FinalUser = RemoteUsers.Where(User => User.Username == FinalUserName).FirstOrDefault();
                     FinalUsers.Add(FinalUser);
                 }
             }
@@ -95,7 +95,7 @@ namespace SimpleLoginAndroid.ViewModel
 
             foreach (var LocalImage in LocalImages)
             {
-                LocalImageIDs.Add(LocalImage.ImageID);
+                //LocalImageIDs.Add(LocalImage.ImageID);
             }
 
             //Getting FB Image Table
@@ -108,7 +108,7 @@ namespace SimpleLoginAndroid.ViewModel
             foreach (var Row in FBImageTable)
             {
                 RemoteImages.Add(Row.Object);
-                RemoteImageIDs.Add(Row.Object.ImageID);
+               // RemoteImageIDs.Add(Row.Object.ImageID);
             }
 
             //Creating a list for Unique LocalImageIDs
@@ -122,13 +122,11 @@ namespace SimpleLoginAndroid.ViewModel
                 //Checking both Local And Remote Users whether those include the name
                 if (LocalImageIDs.Contains(FinalImageID))
                 {
-                    Image FinalImage = LocalImages.Where(Image => Image.ImageID == FinalImageID).FirstOrDefault();
-                    FinalImages.Add(FinalImage);
+                    //Future Implementation
                 }
                 else
                 {
-                    Image FinalImage = RemoteImages.Where(Image => Image.ImageID == FinalImageID).FirstOrDefault();
-                    FinalImages.Add(FinalImage);
+                    //Future Implementation
                 }
             }
 

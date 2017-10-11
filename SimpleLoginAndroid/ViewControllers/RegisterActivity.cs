@@ -51,7 +51,7 @@ namespace SimpleLoginAndroid
                 //Get UserTable from DBHandler 
                 var Connection = LocalDBHandler.GetConnection();
 
-                var UserTable = Connection.Table<User>().Where(User => User.UserName == UserNameTextField.Text).FirstOrDefault();
+                var UserTable = Connection.Table<User>().Where(User => User.Username == UserNameTextField.Text).FirstOrDefault();
 
                 if (UserTable != null)
                 {
@@ -60,7 +60,7 @@ namespace SimpleLoginAndroid
                 else
                 {
                     User user = new User();
-                    user.UserName = UserNameTextField.Text;
+                    user.Username = UserNameTextField.Text;
                     user.Password = PasswordTextField.Text;
 
                     Connection.Insert(user);
