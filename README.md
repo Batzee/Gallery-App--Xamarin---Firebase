@@ -7,8 +7,8 @@ There are sample two tables to handle user details and image url which enables t
 ##Things to do do before start Developing the App
 
     1.You have to create the remote DB and tables inside Firebase in your own account. 
-    2.Add your own Firebase URL in the FBHandler.cs in the ViewModel folder.
-    3.Add your LocalDB file name in the LocalDBHandler.cs in the ViewModel folder.
+    2.Set your own Firebase URL to the "const string FirebaseURL" in ViewModel/FBHandler.cs
+    3.Set your LocalDB file name to the "const string DBNameString" in ViewModel/LocalDBHandler.cs
 
 
 
