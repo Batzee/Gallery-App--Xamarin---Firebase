@@ -24,3 +24,28 @@ C:\Users\chiklk\Documents\Visual Studio 2015\Projects\SimpleLoginAndroid\SimpleL
 C:\Users\chiklk\documents\visual studio 2015\Projects\SimpleLoginAndroid\SimpleLoginAndroid\bin\Debug\SimpleLoginAndroid.dll.mdb
 C:\Users\chiklk\documents\visual studio 2015\Projects\SimpleLoginAndroid\SimpleLoginAndroid\obj\Debug\android\assets\SimpleLoginAndroid.dll.mdb
 C:\Users\chiklk\Documents\Visual Studio 2015\Projects\SimpleLoginAndroid\SimpleLoginAndroid\obj\Debug\SimpleLoginAndroid.csproj.CoreCompileInputs.cache
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\SimpleLoginAndroid.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\SimpleLoginAndroid.pdb
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\SimpleLoginAndroid.SimpleLoginAndroid.apk
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\SimpleLoginAndroid.SimpleLoginAndroid-Signed.apk
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\crypto.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\Firebase.Xamarin.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\JWT.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\System.Reactive.Core.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\System.Reactive.Linq.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\SimpleLoginAndroid.csprojResolveAssemblyReference.cache
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\SimpleLoginAndroid.dll
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\SimpleLoginAndroid.pdb
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\android\bin\SimpleLoginAndroid.SimpleLoginAndroid.apk
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\res\layout\register.xml
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\res\layout\imagepicker.xml
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\res\layout\main.xml
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\res\values\strings.xml
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\R.cs.flag
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\uploadflags.txt
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\bin\Debug\SimpleLoginAndroid.dll.mdb
+C:\Users\mohilk\Documents\GitHub\Gallery-App--Xamarin---Firebase\SimpleLoginAndroid\obj\Debug\android\assets\SimpleLoginAndroid.dll.mdb
