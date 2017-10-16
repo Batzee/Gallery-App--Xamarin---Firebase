@@ -1,0 +1,14 @@
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Release\testapp.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Release\testapp.pdb
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Release\testapp.testapp.apk
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Release\testapp.testapp-Signed.apk
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\testapp.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\testapp.pdb
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\bin\testapp.testapp.apk
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\res\layout\main.xml
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\res\values\strings.xml
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\res\drawable\icon.png
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\R.cs.flag
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\uploadflags.txt
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Release\testapp.dll.mdb
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\testapp.dll.mdb
