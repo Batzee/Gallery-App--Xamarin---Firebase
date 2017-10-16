@@ -1,0 +1,11 @@
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\testapp.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\Java.Interop.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\Microsoft.CSharp.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\Mono.Android.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\mscorlib.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\System.Core.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\System.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\System.Xml.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\Mono.CSharp.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\System.Runtime.Serialization.dll
+c:\users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Release\android\assets\Mono.Security.dll
