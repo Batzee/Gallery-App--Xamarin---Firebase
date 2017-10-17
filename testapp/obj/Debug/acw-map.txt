@@ -14,6 +14,10 @@ testapp.MainActivity, testapp;md5108e7d03129c71cd1961de8f4b9f0a5c.MainActivity
 testapp.MainActivity, testapp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5108e7d03129c71cd1961de8f4b9f0a5c.MainActivity
 testapp.MainActivity;md5108e7d03129c71cd1961de8f4b9f0a5c.MainActivity
 testapp.MainActivity;md5108e7d03129c71cd1961de8f4b9f0a5c.MainActivity
+testapp.Controllers.ViewImagesActivity, testapp;md5946c3fe1ec6861c90d9d245b39b1d296.ViewImagesActivity
+testapp.Controllers.ViewImagesActivity, testapp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5946c3fe1ec6861c90d9d245b39b1d296.ViewImagesActivity
+testapp.Controllers.ViewImagesActivity;md5946c3fe1ec6861c90d9d245b39b1d296.ViewImagesActivity
+testapp.controllers.ViewImagesActivity;md5946c3fe1ec6861c90d9d245b39b1d296.ViewImagesActivity
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
