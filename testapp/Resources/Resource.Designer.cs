@@ -1830,6 +1830,9 @@ namespace testapp
 			// aapt resource value: 0x7f0b0057
 			public const int gridLayout1 = 2131427415;
 			
+			// aapt resource value: 0x7f0b007f
+			public const int gridView1 = 2131427455;
+			
 			// aapt resource value: 0x7f0b0004
 			public const int home = 2131427332;
 			
@@ -1847,6 +1850,24 @@ namespace testapp
 			
 			// aapt resource value: 0x7f0b0029
 			public const int image = 2131427369;
+			
+			// aapt resource value: 0x7f0b0080
+			public const int imageView1 = 2131427456;
+			
+			// aapt resource value: 0x7f0b0081
+			public const int imageView2 = 2131427457;
+			
+			// aapt resource value: 0x7f0b0082
+			public const int imageView3 = 2131427458;
+			
+			// aapt resource value: 0x7f0b0083
+			public const int imageView4 = 2131427459;
+			
+			// aapt resource value: 0x7f0b0084
+			public const int imageView5 = 2131427460;
+			
+			// aapt resource value: 0x7f0b0085
+			public const int imageView6 = 2131427461;
 			
 			// aapt resource value: 0x7f0b0056
 			public const int imageViewPic = 2131427414;
@@ -2248,6 +2269,9 @@ namespace testapp
 			
 			// aapt resource value: 0x7f030031
 			public const int UpdateUser = 2130903089;
+			
+			// aapt resource value: 0x7f030032
+			public const int ViewImages = 2130903090;
 			
 			static Layout()
 			{

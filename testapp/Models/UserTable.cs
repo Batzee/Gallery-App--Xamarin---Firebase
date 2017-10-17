@@ -14,8 +14,6 @@ namespace testapp
         [MaxLength(10)]
         public string password { get; set; }
 
-        //[OneToMany(CascadeOperations = CascadeOperation.All)]
-        //public List<ImageTable> ImageTables { get; set; }
     }
 
 }

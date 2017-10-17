@@ -10,10 +10,8 @@ namespace testapp
 
         public string userName { get; set; }
         
-        //[ForeignKey(typeof(UserTable))]
-        //public int imageId { get; set; }
         public string imageUri { get; set; }
-
+        
         
     }
 }

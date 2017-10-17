@@ -1,48 +1,98 @@
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\testapp.dll.config
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\testapp.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\testapp.pdb
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\testapp.newTest.apk
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\testapp.newTest-Signed.apk
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\crypto.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Firebase.Xamarin.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\JWT.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Newtonsoft.Json.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\SQLite.Net.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\SQLiteNetExtensions.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\System.Reactive.Core.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\System.Reactive.Interfaces.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\System.Reactive.Linq.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\System.Reactive.PlatformServices.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Annotations.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Compat.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Core.UI.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Fragment.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.Firebase.Common.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\SQLiteNetExtensions.dll.mdb
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\testapp.csprojResolveAssemblyReference.cache
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\testapp.dll
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\testapp.pdb
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\android\bin\testapp.newTest.apk
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\res\layout\register.xml
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\res\layout\dashboard.xml
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\res\layout\updateuser.xml
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\res\layout\main.xml
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\res\values\strings.xml
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\res\drawable\icon.png
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\R.cs.flag
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\uploadflags.txt
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\bin\Debug\testapp.dll.mdb
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\android\assets\SQLiteNetExtensions.dll.mdb
-C:\Users\mohilk\documents\visual studio 2015\Projects\testapp\testapp\obj\Debug\android\assets\testapp.dll.mdb
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\testapp.dll.config
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\testapp.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\testapp.pdb
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\testapp.testapp.apk
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\testapp.testapp-Signed.apk
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\crypto.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Firebase.Xamarin.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\JWT.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\SQLite.Net.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\System.Reactive.Core.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\System.Reactive.Linq.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.Firebase.Common.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\SQLiteNetExtensions.dll.mdb
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\testapp.csprojResolveAssemblyReference.cache
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\testapp.dll
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\testapp.pdb
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\android\bin\testapp.testapp.apk
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\layout\register.xml
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\layout\dashboard.xml
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\layout\updateuser.xml
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\layout\viewimages.xml
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\layout\main.xml
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\values\strings.xml
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\res\drawable\icon.png
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\R.cs.flag
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\uploadflags.txt
+C:\Users\mohilk\Documents\MobileAssignment\testapp\bin\Debug\testapp.dll.mdb
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\android\assets\SQLiteNetExtensions.dll.mdb
+C:\Users\mohilk\Documents\MobileAssignment\testapp\obj\Debug\android\assets\testapp.dll.mdb
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\testapp.dll.config
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\testapp.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\testapp.pdb
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\testapp.testapp.apk
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\testapp.testapp-Signed.apk
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\crypto.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Firebase.Xamarin.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\JWT.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\SQLite.Net.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\SQLiteNetExtensions.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\System.Reactive.Core.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\System.Reactive.Linq.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.Firebase.Common.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\SQLiteNetExtensions.dll.mdb
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\testapp.csprojResolveAssemblyReference.cache
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\testapp.dll
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\testapp.pdb
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\android\bin\testapp.testapp.apk
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\layout\register.xml
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\layout\dashboard.xml
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\layout\updateuser.xml
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\layout\viewimages.xml
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\layout\main.xml
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\values\strings.xml
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\res\drawable\icon.png
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\R.cs.flag
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\uploadflags.txt
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\bin\Debug\testapp.dll.mdb
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\android\assets\SQLiteNetExtensions.dll.mdb
+C:\Users\chiklk\Documents\GitHub\Gallery-App--Xamarin---Firebase\testapp\obj\Debug\android\assets\testapp.dll.mdb
